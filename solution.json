@@ -1,0 +1,19 @@
+{
+    "id": "6f983c60-8c36-11e7-ade7-91bde43f5ee1",
+    "name": "Trolley Tracker",
+    "description": "Tanium solution pack which contains various sensors for reporting up to the second status of our mining trolleys.",
+    "default_content": 0,
+    "category": "Other",
+    "deleted": 0,
+    "featured": 0,
+    "links": [
+        {
+            "name": "Homepage",
+            "value": "https://github.com/<github-login>/trolley-tracker"
+        },
+        {
+            "name": "Issues Tracker",
+            "value": "https://github.com/<github-login>/trolley-tracker/issues"
+        }
+    ]
+}
