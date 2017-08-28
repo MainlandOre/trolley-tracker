@@ -9,11 +9,11 @@
     "links": [
         {
             "name": "Homepage",
-            "value": "https://github.com/<github-login>/trolley-tracker"
+            "value": "https://github.com/MainlandOre/trolley-tracker"
         },
         {
             "name": "Issues Tracker",
-            "value": "https://github.com/<github-login>/trolley-tracker/issues"
+            "value": "https://github.com/MainlandOre/trolley-tracker/issues"
         }
     ]
 }
